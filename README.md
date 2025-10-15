@@ -4,7 +4,7 @@
 The goal is to ensure transparency, accessibility, and credible election reporting for citizens and observers.
 
 ## 🚀 Features
-- Live election results dashboard (Presidential, Gubernatorial, Senatorial)
+- Live election results dashboard (Presidential)
 - Interactive state and regional maps
 - Verified data from official INEC and media sources
 - Admin panel for result input and verification
